@@ -1,0 +1,10 @@
+.container{
+width: 500px;
+height: 500px;
+background-color: bisque;
+border: 2px solid goldenrod;
+overflow: hidden;
+background-image: url(tim.jpg);
+background-attachment: fixed;
+background-size: 100% 100%;
+}
